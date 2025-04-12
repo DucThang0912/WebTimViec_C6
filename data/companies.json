@@ -1,0 +1,192 @@
+{
+  "companies": [
+    {
+      "id": "comp001",
+      "name": "Tech Solutions Inc",
+      "logo": "/images/company-logos/techsolutions.png",
+      "industry": "Information Technology",
+      "location": "Ho Chi Minh City",
+      "size": "100-500",
+      "website": "https://techsolutions.com",
+      "description": "Leading technology solutions provider...",
+      "benefits": [
+        "Modern office",
+        "Team building activities",
+        "Professional development"
+      ],
+      "founded_year": 2010,
+      "rating": 4.5
+    },
+    {
+      "id": "comp002",
+      "name": "VNG Corporation",
+      "logo": "/images/company-logos/vng.png",
+      "industry": "Technology",
+      "location": "Ho Chi Minh City",
+      "size": "1000-5000",
+      "website": "https://vng.com.vn",
+      "description": "Leading technology company in Vietnam, specializing in digital content, online entertainment, and e-commerce",
+      "benefits": [
+        "Competitive salary",
+        "Stock options",
+        "Modern office in District 7",
+        "Gym membership",
+        "Annual travel allowance"
+      ],
+      "founded_year": 2004,
+      "rating": 4.7
+    },
+    {
+      "id": "comp003",
+      "name": "Vinamilk",
+      "logo": "/images/company-logos/vinamilk.png",
+      "industry": "Food & Beverage",
+      "location": "Ho Chi Minh City",
+      "size": "5000+",
+      "website": "https://vinamilk.com.vn",
+      "description": "Vietnam's largest dairy products manufacturer and distributor",
+      "benefits": [
+        "13th month salary",
+        "Premium health care",
+        "Product allowance",
+        "Career development",
+        "Family events"
+      ],
+      "founded_year": 1976,
+      "rating": 4.6
+    },
+    {
+      "id": "comp004",
+      "name": "FPT Software",
+      "logo": "/images/company-logos/fpt.png",
+      "industry": "Information Technology",
+      "location": "Ha Noi",
+      "size": "5000+",
+      "website": "https://fptsoftware.com",
+      "description": "Global technology and IT services provider",
+      "benefits": [
+        "International projects",
+        "Training programs",
+        "Health insurance",
+        "Annual company trip",
+        "Technical workshops"
+      ],
+      "founded_year": 1999,
+      "rating": 4.4
+    },
+    {
+      "id": "comp005",
+      "name": "Prudential Vietnam",
+      "logo": "/images/company-logos/prudential.png",
+      "industry": "Insurance",
+      "location": "Ho Chi Minh City",
+      "size": "1000-5000",
+      "website": "https://prudential.com.vn",
+      "description": "Leading life insurance provider in Vietnam",
+      "benefits": [
+        "High commission",
+        "Professional training",
+        "Recognition programs",
+        "Health benefits",
+        "Travel opportunities"
+      ],
+      "founded_year": 1999,
+      "rating": 4.3
+    },
+    {
+      "id": "comp006",
+      "name": "Samsung Vietnam",
+      "logo": "/images/company-logos/samsung.png",
+      "industry": "Manufacturing",
+      "location": "Thai Nguyen",
+      "size": "5000+",
+      "website": "https://samsung.com/vn",
+      "description": "Global leader in electronics manufacturing",
+      "benefits": [
+        "Competitive salary",
+        "Modern facilities",
+        "Transportation support",
+        "Meal allowance",
+        "Career growth"
+      ],
+      "founded_year": 2008,
+      "rating": 4.5
+    },
+    {
+      "id": "comp007",
+      "name": "Masan Group",
+      "logo": "/images/company-logos/masan.png",
+      "industry": "Consumer Goods",
+      "location": "Ho Chi Minh City",
+      "size": "1000-5000",
+      "website": "https://masangroup.com",
+      "description": "Leading consumer goods and retail company in Vietnam",
+      "benefits": [
+        "Performance bonus",
+        "Stock options",
+        "Health care package",
+        "Professional training",
+        "Modern workplace"
+      ],
+      "founded_year": 1996,
+      "rating": 4.2
+    },
+    {
+      "id": "comp008",
+      "name": "VP Bank",
+      "logo": "/images/company-logos/vpbank.png",
+      "industry": "Banking",
+      "location": "Ha Noi",
+      "size": "1000-5000",
+      "website": "https://vpbank.com.vn",
+      "description": "Leading commercial bank in Vietnam",
+      "benefits": [
+        "Attractive salary package",
+        "Banking products benefits",
+        "Health insurance",
+        "Training opportunities",
+        "Career advancement"
+      ],
+      "founded_year": 1993,
+      "rating": 4.4
+    },
+    {
+      "id": "comp009",
+      "name": "Grab Vietnam",
+      "logo": "/images/company-logos/grab.png",
+      "industry": "Technology",
+      "location": "Ho Chi Minh City",
+      "size": "500-1000",
+      "website": "https://grab.com/vn",
+      "description": "Leading super app platform in Southeast Asia",
+      "benefits": [
+        "Flexible working hours",
+        "Modern office",
+        "Health benefits",
+        "Stock purchase plan",
+        "Learning allowance"
+      ],
+      "founded_year": 2014,
+      "rating": 4.5
+    },
+    {
+      "id": "comp010",
+      "name": "Viettel Group",
+      "logo": "/images/company-logos/viettel.png",
+      "industry": "Telecommunications",
+      "location": "Ha Noi",
+      "size": "5000+",
+      "website": "https://viettel.com.vn",
+      "description": "Largest telecommunications company in Vietnam",
+      "benefits": [
+        "Competitive salary",
+        "Healthcare package",
+        "Professional development",
+        "International exposure",
+        "Research opportunities"
+      ],
+      "founded_year": 1989,
+      "rating": 4.6
+    }
+  ]
+}

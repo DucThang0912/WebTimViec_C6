@@ -1,0 +1,67 @@
+WebTimViec_C6/
+│
+├── index.html              # Trang chủ
+├── css/                    # Thư mục chứa các file CSS
+│   ├── style.css          # CSS chính
+│   └── responsive.css     # CSS cho responsive design
+│
+├── js/                    # Thư mục chứa các file JavaScript
+│   ├── main.js           # JavaScript chính
+│   ├── search.js         # Xử lý tìm kiếm
+│   └── filter.js         # Xử lý lọc việc làm
+│
+├── data/                  # Thư mục chứa dữ liệu
+│   └── jobs.json         # File JSON chứa dữ liệu việc làm
+│
+├── images/               # Thư mục chứa hình ảnh
+│   ├── logo/
+│   └── company-logos/
+│
+└── pages/               # Các trang phụ
+    ├── job-detail.html  # Trang chi tiết việc làm
+    ├── company.html     # Trang thông tin công ty
+    └── about.html       # Trang giới thiệu
+
+Cấu trúc trang chủ (index.html):
+1. Header
+   - Logo
+   - Menu điều hướng
+   - Thanh tìm kiếm
+
+2. Main Content
+   - Banner/Hero section
+   - Bộ lọc việc làm (ngành nghề, địa điểm, mức lương)
+   - Danh sách việc làm
+   - Phân trang
+
+3. Sidebar
+   - Các ngành nghề phổ biến
+   - Các công ty nổi bật
+   - Thống kê
+
+4. Footer
+   - Thông tin liên hệ
+   - Links hữu ích
+   - Social media links
+   - Copyright
+
+Cấu trúc JSON (jobs.json):
+{
+  "jobs": [
+    {
+      "id": "string",
+      "title": "string",
+      "company": "string",
+      "location": "string",
+      "salary": "string",
+      "type": "string",
+      "description": "string",
+      "requirements": ["string"],
+      "benefits": ["string"],
+      "posted_date": "date",
+      "deadline": "date",
+      "category": "string",
+      "company_logo": "string"
+    }
+  ]
+}

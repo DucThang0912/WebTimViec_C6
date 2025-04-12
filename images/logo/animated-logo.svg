@@ -1,0 +1,31 @@
+<svg width="120" height="40" viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .logo-text {
+      font-family: 'Arial Black', sans-serif;
+      font-size: 24px;
+      font-weight: bold;
+      fill: #764ba2;
+    }
+    .logo-highlight {
+      animation: glow 2s ease-in-out infinite;
+    }
+    @keyframes glow {
+      0%, 100% { filter: drop-shadow(0 0 2px #764ba2); }
+      50% { filter: drop-shadow(0 0 8px #667eea); }
+    }
+    .logo-path {
+      stroke-dasharray: 1000;
+      stroke-dashoffset: 1000;
+      animation: draw 3s ease forwards infinite;
+    }
+    @keyframes draw {
+      to { stroke-dashoffset: 0; }
+    }
+  </style>
+  
+  <g class="logo-highlight">
+    <path class="logo-path" d="M20 10 L30 10 L30 30 L10 30 L10 20" 
+          stroke="#764ba2" fill="none" stroke-width="2"/>
+    <text x="40" y="28" class="logo-text">NTH</text>
+  </g>
+</svg>
