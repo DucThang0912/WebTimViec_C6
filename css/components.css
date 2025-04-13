@@ -168,7 +168,7 @@
 }
 
 .footer-section p {
-    color: #999;
+    color: white;
     line-height: 1.8;
 }
 
@@ -181,7 +181,7 @@
 }
 
 .footer-section ul li a {
-    color: #999;
+    color: white;
     text-decoration: none;
     transition: color 0.3s ease;
 }
@@ -202,6 +202,7 @@
 
 .social-links a {
     display: flex;
+    text-decoration: none;
     align-items: center;
     justify-content: center;
     width: 35px;

@@ -18,10 +18,7 @@ WebTimViec_S6 là một nền tảng tìm kiếm việc làm trực tuyến, k�
 - Thống kê và báo cáo
 
 ## 🛠 Công nghệ sử dụng
-- Frontend: ReactJS, Material-UI
-- Backend: NodeJS, ExpressJS
-- Database: MongoDB
-- Authentication: JWT
+- Frontend: HTML, CSS, JavaScript
 
 ## 🚀 Hướng dẫn cài đặt
 1. Clone repository
