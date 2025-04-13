@@ -1,0 +1,45 @@
+{
+  "locations": [
+    {
+      "id": "loc001",
+      "city": "Ho Chi Minh City",
+      "districts": [
+        "District 1",
+        "District 2",
+        "District 3",
+        "District 4",
+        "District 5",
+        "Thu Duc",
+        "Binh Thanh",
+        "Phu Nhuan"
+      ],
+      "job_count": 150
+    },
+    {
+      "id": "loc002",
+      "city": "Ha Noi",
+      "districts": [
+        "Hoan Kiem",
+        "Ba Dinh",
+        "Dong Da",
+        "Hai Ba Trung",
+        "Cau Giay",
+        "Nam Tu Liem",
+        "Tay Ho"
+      ],
+      "job_count": 120
+    },
+    {
+      "id": "loc003",
+      "city": "Da Nang",
+      "districts": [
+        "Hai Chau",
+        "Thanh Khe",
+        "Son Tra",
+        "Ngu Hanh Son",
+        "Lien Chieu"
+      ],
+      "job_count": 80
+    }
+  ]
+}

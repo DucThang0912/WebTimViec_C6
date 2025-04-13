@@ -1,0 +1,133 @@
+{
+  "categories": [
+    {
+      "id": "cat001",
+      "name": "IT/Software",
+      "icon": "computer",
+      "job_count": 150,
+      "subcategories": [
+        "Web Development",
+        "Mobile Development",
+        "DevOps",
+        "Data Science"
+      ]
+    },
+    {
+      "id": "cat002",
+      "name": "Marketing",
+      "icon": "campaign",
+      "job_count": 120,
+      "subcategories": [
+        "Digital Marketing",
+        "Brand Marketing",
+        "Content Marketing",
+        "Social Media Marketing",
+        "SEO/SEM"
+      ]
+    },
+    {
+      "id": "cat003",
+      "name": "Finance/Banking",
+      "icon": "account_balance",
+      "job_count": 100,
+      "subcategories": [
+        "Accounting",
+        "Banking",
+        "Investment",
+        "Financial Analysis",
+        "Auditing"
+      ]
+    },
+    {
+      "id": "cat004",
+      "name": "Sales",
+      "icon": "trending_up",
+      "job_count": 130,
+      "subcategories": [
+        "B2B Sales",
+        "B2C Sales",
+        "Sales Management",
+        "Business Development",
+        "Retail Sales"
+      ]
+    },
+    {
+      "id": "cat005",
+      "name": "Engineering",
+      "icon": "engineering",
+      "job_count": 90,
+      "subcategories": [
+        "Civil Engineering",
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Chemical Engineering",
+        "Industrial Engineering"
+      ]
+    },
+    {
+      "id": "cat006",
+      "name": "Human Resources",
+      "icon": "people",
+      "job_count": 80,
+      "subcategories": [
+        "Recruitment",
+        "Training & Development",
+        "Compensation & Benefits",
+        "HR Management",
+        "Employee Relations"
+      ]
+    },
+    {
+      "id": "cat007",
+      "name": "Design",
+      "icon": "palette",
+      "job_count": 70,
+      "subcategories": [
+        "Graphic Design",
+        "UI/UX Design",
+        "Product Design",
+        "Interior Design",
+        "Motion Design"
+      ]
+    },
+    {
+      "id": "cat008",
+      "name": "Education",
+      "icon": "school",
+      "job_count": 60,
+      "subcategories": [
+        "Teaching",
+        "Training",
+        "Educational Administration",
+        "Curriculum Development",
+        "Language Education"
+      ]
+    },
+    {
+      "id": "cat009",
+      "name": "Healthcare",
+      "icon": "local_hospital",
+      "job_count": 85,
+      "subcategories": [
+        "Medical Practice",
+        "Nursing",
+        "Pharmacy",
+        "Physical Therapy",
+        "Healthcare Administration"
+      ]
+    },
+    {
+      "id": "cat010",
+      "name": "Manufacturing",
+      "icon": "factory",
+      "job_count": 95,
+      "subcategories": [
+        "Production Management",
+        "Quality Control",
+        "Supply Chain",
+        "Operations",
+        "Process Engineering"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "jobs": [
+    {
+      "id": "job001",
+      "title": "Frontend Developer",
+      "company_id": "comp001",
+      "location": "Ho Chi Minh City",
+      "salary": "1000-2000 USD",
+      "type": "Full-time",
+      "description": "We are looking for a Frontend Developer with strong React skills...",
+      "requirements": [
+        "2+ years of experience with React",
+        "Strong knowledge of HTML, CSS, JavaScript",
+        "Experience with responsive design",
+        "Good English communication"
+      ],
+      "benefits": [
+        "Competitive salary",
+        "13th month salary",
+        "Health insurance",
+        "Annual leave 12 days"
+      ],
+      "posted_date": "2024-01-15",
+      "deadline": "2024-02-15",
+      "category": "IT/Software",
+      "experience_level": "Mid-level",
+      "views": 150
+    },
+    {
+      "id": "job002",
+      "title": "Data Scientist",
+      "company_id": "comp002",
+      "location": "Ha Noi",
+      "salary": "2000-3500 USD",
+      "type": "Full-time",
+      "description": "Looking for an experienced Data Scientist to develop machine learning models and analyze complex data sets.",
+      "requirements": [
+        "Master's degree in Data Science, Computer Science, or related field",
+        "3+ years experience in machine learning",
+        "Strong Python programming skills",
+        "Experience with TensorFlow or PyTorch",
+        "Knowledge of statistical analysis"
+      ],
+      "benefits": [
+        "Competitive salary package",
+        "Annual bonus",
+        "Remote working options",
+        "Training budget",
+        "Health insurance"
+      ],
+      "posted_date": "2024-01-16",
+      "deadline": "2024-02-16",
+      "category": "Data Science",
+      "experience_level": "Senior",
+      "views": 120
+    },
+    {
+      "id": "job003",
+      "title": "Graphic Designer",
+      "company_id": "comp003",
+      "location": "Ho Chi Minh City",
+      "salary": "800-1200 USD",
+      "type": "Full-time",
+      "description": "Creative graphic designer needed for digital marketing agency.",
+      "requirements": [
+        "Bachelor's degree in Design",
+        "2+ years experience",
+        "Proficient in Adobe Creative Suite",
+        "Strong portfolio",
+        "Creative mindset"
+      ],
+      "benefits": [
+        "Young dynamic environment",
+        "Performance bonus",
+        "Health insurance",
+        "Annual leave 12 days",
+        "Creative freedom"
+      ],
+      "posted_date": "2024-01-17",
+      "deadline": "2024-02-17",
+      "category": "Design",
+      "experience_level": "Mid-level",
+      "views": 90
+    },
+    {
+      "id": "job004",
+      "title": "Sales Manager",
+      "company_id": "comp004",
+      "location": "Da Nang",
+      "salary": "1500-2500 USD",
+      "type": "Full-time",
+      "description": "Experienced Sales Manager needed to lead and develop sales team.",
+      "requirements": [
+        "5+ years in sales management",
+        "Strong leadership skills",
+        "Goal-oriented mindset",
+        "Experience in B2B sales",
+        "English proficiency"
+      ],
+      "benefits": [
+        "High commission structure",
+        "Company car",
+        "Health insurance",
+        "Performance bonuses",
+        "Leadership training"
+      ],
+      "posted_date": "2024-01-18",
+      "deadline": "2024-02-18",
+      "category": "Sales",
+      "experience_level": "Senior",
+      "views": 85
+    },
+    {
+      "id": "job005",
+      "title": "Chef de Cuisine",
+      "company_id": "comp005",
+      "location": "Nha Trang",
+      "salary": "1200-1800 USD",
+      "type": "Full-time",
+      "description": "Luxury resort seeking experienced Chef de Cuisine for fine dining restaurant.",
+      "requirements": [
+        "5+ years culinary experience",
+        "Culinary degree",
+        "Leadership experience",
+        "Menu development skills",
+        "Food cost management"
+      ],
+      "benefits": [
+        "Accommodation provided",
+        "Meal allowance",
+        "Health insurance",
+        "Annual leave 15 days",
+        "Career growth"
+      ],
+      "posted_date": "2024-01-19",
+      "deadline": "2024-02-19",
+      "category": "Hospitality",
+      "experience_level": "Senior",
+      "views": 70
+    },
+    {
+      "id": "job006",
+      "title": "Civil Engineer",
+      "company_id": "comp006",
+      "location": "Ho Chi Minh City",
+      "salary": "1000-1800 USD",
+      "type": "Full-time",
+      "description": "Civil Engineer needed for major infrastructure projects.",
+      "requirements": [
+        "Bachelor's in Civil Engineering",
+        "3+ years experience",
+        "AutoCAD proficiency",
+        "Project management skills",
+        "Site supervision experience"
+      ],
+      "benefits": [
+        "Project bonuses",
+        "Transportation allowance",
+        "Insurance package",
+        "Professional training",
+        "Site allowance"
+      ],
+      "posted_date": "2024-01-20",
+      "deadline": "2024-02-20",
+      "category": "Engineering",
+      "experience_level": "Mid-level",
+      "views": 95
+    },
+    {
+      "id": "job007",
+      "title": "Digital Marketing Specialist",
+      "company_id": "comp007",
+      "location": "Ha Noi",
+      "salary": "800-1500 USD",
+      "type": "Full-time",
+      "description": "Digital marketer needed for e-commerce company.",
+      "requirements": [
+        "2+ years digital marketing experience",
+        "Google Analytics certification",
+        "SEO/SEM knowledge",
+        "Social media management",
+        "Content creation skills"
+      ],
+      "benefits": [
+        "Performance bonus",
+        "Young environment",
+        "Health insurance",
+        "Training opportunities",
+        "Flexible hours"
+      ],
+      "posted_date": "2024-01-21",
+      "deadline": "2024-02-21",
+      "category": "Marketing",
+      "experience_level": "Mid-level",
+      "views": 110
+    },
+    {
+      "id": "job008",
+      "title": "HR Manager",
+      "company_id": "comp008",
+      "location": "Binh Duong",
+      "salary": "1500-2000 USD",
+      "type": "Full-time",
+      "description": "Manufacturing company seeking HR Manager for their expansion.",
+      "requirements": [
+        "5+ years HR experience",
+        "Labor law knowledge",
+        "Recruitment expertise",
+        "Training management",
+        "Employee relations"
+      ],
+      "benefits": [
+        "13th month salary",
+        "Performance bonus",
+        "Health insurance",
+        "Professional development",
+        "Team building activities"
+      ],
+      "posted_date": "2024-01-22",
+      "deadline": "2024-02-22",
+      "category": "Human Resources",
+      "experience_level": "Senior",
+      "views": 75
+    },
+    {
+      "id": "job009",
+      "title": "Mobile App Developer",
+      "company_id": "comp009",
+      "location": "Ho Chi Minh City",
+      "salary": "1500-2500 USD",
+      "type": "Full-time",
+      "description": "Mobile developer needed for fintech startup.",
+      "requirements": [
+        "3+ years mobile development",
+        "iOS/Android expertise",
+        "React Native experience",
+        "API integration skills",
+        "App store deployment"
+      ],
+      "benefits": [
+        "Stock options",
+        "Modern office",
+        "Health insurance",
+        "Remote work options",
+        "Technical training"
+      ],
+      "posted_date": "2024-01-23",
+      "deadline": "2024-02-23",
+      "category": "IT/Software",
+      "experience_level": "Mid-level",
+      "views": 130
+    },
+    {
+      "id": "job010",
+      "title": "Accountant",
+      "company_id": "comp010",
+      "location": "Da Nang",
+      "salary": "700-1200 USD",
+      "type": "Full-time",
+      "description": "Seeking experienced accountant for trading company.",
+      "requirements": [
+        "Bachelor's in Accounting",
+        "2+ years experience",
+        "Tax regulation knowledge",
+        "Excel proficiency",
+        "Financial reporting"
+      ],
+      "benefits": [
+        "13th month salary",
+        "Overtime allowance",
+        "Health insurance",
+        "Annual leave 12 days",
+        "Career development"
+      ],
+      "posted_date": "2024-01-24",
+      "deadline": "2024-02-24",
+      "category": "Finance",
+      "experience_level": "Mid-level",
+      "views": 85
+    }
+  ]
+}
