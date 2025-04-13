@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     // Load Categories
-    fetch('./data/categories.json')
+    fetch('../data/categories.json')
         .then(response => response.json())
         .then(data => {
             const container = document.getElementById('categories-container');
@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
 
     // Load Featured Jobs
-    fetch('./data/jobs.json')
+    fetch('../data/jobs.json')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Failed to load jobs data');
@@ -204,7 +204,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
 
     // Load Companies
-    fetch('./data/companies.json')
+    fetch('../data/companies.json')
         .then(response => response.json())
         .then(data => {
             const container = document.getElementById('companies-container');
