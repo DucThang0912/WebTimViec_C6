@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Current Jobs - WebTimViec</title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- AOS Animation -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/components.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/job-current.css">
+</head>
+<body>
+    <div id="header-placeholder"></div>
+
+    <div class="container mt-5">
+        <div class="job-header" data-aos="fade-up">
+            <h1>Current Job Listings</h1>
+            <div class="filter-section">
+                <select class="filter-select">
+                    <option value="">All Categories</option>
+                    <option value="tech">Technology</option>
+                    <option value="marketing">Marketing</option>
+                    <option value="design">Design</option>
+                </select>
+                <select class="filter-select">
+                    <option value="">All Locations</option>
+                    <option value="hcm">TP.HCM</option>
+                    <option value="hn">Ha Noi</option>
+                    <option value="dn">Hai Phong</option>
+                </select>
+                <button class="filter-btn"><i class="fas fa-filter"></i> Filter</button>
+            </div>
+        </div>
+
+        <div class="job-grid" id="jobList">
+            <!-- Jobs will be loaded dynamically -->
+        </div>
+    </div>
+
+    <div id="footer-placeholder"></div>
+
+    <!-- Scripts -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="js/components.js"></script>
+    <script src="js/job-current.js"></script>
+</body>
+</html>
